@@ -1,5 +1,5 @@
 Quick Access Links for Referenced Software:
 
-To download balenaEtcher: http://balenaetcher.com
+To download balenaEtcher: https://www.balena.io/etcher/
 
 To download Kali Linux: http://kali.org
