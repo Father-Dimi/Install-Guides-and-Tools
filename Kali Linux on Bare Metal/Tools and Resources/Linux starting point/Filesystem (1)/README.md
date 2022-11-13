@@ -62,4 +62,4 @@ a fun little thing you can do to look at cpu specs is in the terminal type `cat 
 
 here is a little picture for help to understand this
 
-![linux-filesystem](images/filesystem.png)
+![linux-filesystem](../images/filesystem.png)
