@@ -21,7 +21,7 @@ this is because the "linux"directory does not exist, you may create linux and fi
 
 
 ### Cd
-cd stands for "change directory", its pretty self-explanitory, you use this command for changing into another directory.
+cd stands for "change directory", its pretty self-explanatory, you use this command for changing into another directory.
 
 ### Pwd
 pwd stands for "print working directory" so when you type this command it will show you what directory (folder) you are in.
@@ -30,19 +30,19 @@ pwd stands for "print working directory" so when you type this command it will s
 in linux, when you create a file its file extension may not always represent its true file type, i could rename a  .png file to .jpeg and it would stay at .png. you can use the file command to see that kind of file format the file is in example: `file picture.png`
 
 ### Cat
-cat is used to view the contents of any file that contains readable text. if you have a .bashrc file that you would like to see the contents of you would type `cat ~/.bashrc` and it would show you the text present in the folder. it all shows in your terminal, because of this using cat for large files isnt that effective.
+cat is used to view the contents of any file that contains readable text. if you have a .bashrc file that you would like to see the contents of you would type `cat ~/.bashrc` and it would show you the text present in the folder. it all shows in your terminal, because of this using cat for large files isn't that effective.
 
 ### Cp
-cp stands for "copy" it is pretty self-explanitory. you use it to copy files. if you would like to move __~Downloads/example__ to __~Documents/__ you would type `cp ~/Downloads/example ~/Documents/` and it would copy the file
+cp stands for "copy" it is pretty self-explanatory. You use it to copy files. If you would like to move __~Downloads/example__ to __~Documents/__ you would type `cp ~/Downloads/example ~/Documents/` and it would copy the file
 
 ### Mv
 mv stands for "move" you may use it in the same context of cp but remember instead of copying the file it actually moves it
 
 ### Man
-Man and/or manpages is the terminal app that shows documentation for a certain app. say if i wanted to see the documentation in terminal for pacman (arch-based package manager) i would type in the terminal `man pacman` and i would then see the documentation for it
+Man and/or manpage is the terminal app that shows documentation for a certain app. Say if i wanted to see the documentation in terminal for pacman (arch-based package manager) i would type in the terminal `man pacman` and i would then see the documentation for it
 
 ### The Arch Wiki.
-even if you are not running arch or an arch-based system the [Arch Wiki](https://wiki.archlinux.org/) is very very useful. if there is documentation for something, it exist on the arch wiki, usually you can get the gist on how to use a certain tool for linux by googling it along side "arch-wiki"
+even if you are not running arch or an arch-based system the [Arch Wiki](https://wiki.archlinux.org/) is very very useful. If there is documentation for something, it exist on the arch wiki, usually you can get the gist on how to use a certain tool for linux by googling it along side "arch-wiki"
 
 
 ## Final Note

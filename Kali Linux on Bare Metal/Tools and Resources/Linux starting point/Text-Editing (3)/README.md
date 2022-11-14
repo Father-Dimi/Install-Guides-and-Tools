@@ -3,11 +3,11 @@
 
 
 ### Nano
-out of all of these this one is the most beginner-friendly, although its not recommended for editing large files due to its lack of features. you may enter it into a file by typing `nano fileyouwanttomodify`
-and you will be able to edit the file. when you wish to save press `ctrl+o` then press enter then type `ctrl+x` to exit
+out of all of these this one is the most beginner-friendly, although its not recommended for editing large files due to its lack of features. You may enter it into a file by typing `nano fileyouwanttomodify`
+and you will be able to edit the file. When you wish to save press `ctrl+o` then press enter then type `ctrl+x` to exit
 
 ### Vim
-The notoriously hard text-editor. vim (stands for vi-improved) 
+The notoriously hard text-editor. Vim (stands for vi-improved) 
 is a superset of the earlier text-editor vi
 you may enter vim via typing `vim fileyouwanttomodify` apon entering you will not be able to modify text
 because you are in "command mode" you must press the letter "i" on your keyboard and then you will be able to edit text, when you are done press the "esc" key and then type
